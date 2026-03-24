@@ -1,56 +1,58 @@
-<svg width="900" height="420" viewBox="0 0 900 420" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="900" height="420" rx="24" fill="#F7F4ED"/>
-  <rect x="58" y="52" width="784" height="308" rx="18" fill="#FFFDF8" stroke="#E5DEC9"/>
-  <text x="80" y="94" fill="#1F2937" font-family="Georgia, 'Times New Roman', serif" font-size="26" font-weight="700">LOC / Python files</text>
-  <text x="80" y="122" fill="#6B7280" font-family="Verdana, Geneva, sans-serif" font-size="14">Flask (2021-2026) - dados do relatorio gerado pelo GitEvo</text>
+<svg width="751" height="431" viewBox="0 0 751 431" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="751" height="431" fill="#FFFFFF"/>
+  <g transform="translate(365 27)" stroke="#7A7A7A" stroke-width="1.8" fill="none" stroke-linecap="round">
+    <path d="M7 2.5C10 0 14.5 0.3 17.2 3L20 5.8C22.8 8.6 22.8 13.1 20 15.9C17.2 18.7 12.7 18.7 9.9 15.9L8.5 14.5"/>
+    <path d="M13.5 7.3L11 9.8"/>
+    <path d="M12 20.5C9 23 4.5 22.7 1.8 20L-1 17.2C-3.8 14.4 -3.8 9.9 -1 7.1C1.8 4.3 6.3 4.3 9.1 7.1L10.5 8.5"/>
+  </g>
+  <text x="375.5" y="74" text-anchor="middle" fill="#555555" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">LOC / Python files</text>
 
-  <line x1="110" y1="310" x2="820" y2="310" stroke="#CFC6AF" stroke-width="2"/>
-  <line x1="110" y1="250" x2="820" y2="250" stroke="#E8E1CF" stroke-width="1.5"/>
-  <line x1="110" y1="190" x2="820" y2="190" stroke="#E8E1CF" stroke-width="1.5"/>
-  <line x1="110" y1="130" x2="820" y2="130" stroke="#E8E1CF" stroke-width="1.5"/>
-  <line x1="110" y1="70" x2="820" y2="70" stroke="#CFC6AF" stroke-width="2"/>
-  <line x1="110" y1="70" x2="110" y2="310" stroke="#CFC6AF" stroke-width="2"/>
+  <line x1="81.5" y1="343.5" x2="682.5" y2="343.5" stroke="#D9D9D9"/>
+  <line x1="81.5" y1="295.5" x2="682.5" y2="295.5" stroke="#D9D9D9"/>
+  <line x1="81.5" y1="247.5" x2="682.5" y2="247.5" stroke="#D9D9D9"/>
+  <line x1="81.5" y1="200.5" x2="682.5" y2="200.5" stroke="#D9D9D9"/>
+  <line x1="81.5" y1="152.5" x2="682.5" y2="152.5" stroke="#D9D9D9"/>
+  <line x1="81.5" y1="104.5" x2="682.5" y2="104.5" stroke="#D9D9D9"/>
 
-  <text x="68" y="315" fill="#6B7280" font-family="Verdana, Geneva, sans-serif" font-size="13">213</text>
-  <text x="68" y="255" fill="#6B7280" font-family="Verdana, Geneva, sans-serif" font-size="13">217</text>
-  <text x="68" y="195" fill="#6B7280" font-family="Verdana, Geneva, sans-serif" font-size="13">221</text>
-  <text x="68" y="135" fill="#6B7280" font-family="Verdana, Geneva, sans-serif" font-size="13">225</text>
-  <text x="68" y="75" fill="#6B7280" font-family="Verdana, Geneva, sans-serif" font-size="13">229.6</text>
+  <line x1="81.5" y1="104" x2="81.5" y2="343" stroke="#D9D9D9"/>
+  <line x1="201.5" y1="104" x2="201.5" y2="343" stroke="#D9D9D9"/>
+  <line x1="321.5" y1="104" x2="321.5" y2="343" stroke="#D9D9D9"/>
+  <line x1="441.5" y1="104" x2="441.5" y2="343" stroke="#D9D9D9"/>
+  <line x1="561.5" y1="104" x2="561.5" y2="343" stroke="#D9D9D9"/>
+  <line x1="681.5" y1="104" x2="681.5" y2="343" stroke="#D9D9D9"/>
+
+  <line x1="81.5" y1="104" x2="81.5" y2="343" stroke="#CFCFCF"/>
+  <line x1="81" y1="343.5" x2="682" y2="343.5" stroke="#CFCFCF"/>
+
+  <text x="70" y="348" text-anchor="end" fill="#666666" font-family="Arial, Helvetica, sans-serif" font-size="14">0</text>
+  <text x="70" y="300" text-anchor="end" fill="#666666" font-family="Arial, Helvetica, sans-serif" font-size="14">50</text>
+  <text x="70" y="252" text-anchor="end" fill="#666666" font-family="Arial, Helvetica, sans-serif" font-size="14">100</text>
+  <text x="70" y="205" text-anchor="end" fill="#666666" font-family="Arial, Helvetica, sans-serif" font-size="14">150</text>
+  <text x="70" y="157" text-anchor="end" fill="#666666" font-family="Arial, Helvetica, sans-serif" font-size="14">200</text>
+  <text x="70" y="109" text-anchor="end" fill="#666666" font-family="Arial, Helvetica, sans-serif" font-size="14">250</text>
+
+  <text x="81" y="366" text-anchor="middle" fill="#666666" font-family="Arial, Helvetica, sans-serif" font-size="14">2021</text>
+  <text x="201" y="366" text-anchor="middle" fill="#666666" font-family="Arial, Helvetica, sans-serif" font-size="14">2022</text>
+  <text x="321" y="366" text-anchor="middle" fill="#666666" font-family="Arial, Helvetica, sans-serif" font-size="14">2023</text>
+  <text x="441" y="366" text-anchor="middle" fill="#666666" font-family="Arial, Helvetica, sans-serif" font-size="14">2024</text>
+  <text x="561" y="366" text-anchor="middle" fill="#666666" font-family="Arial, Helvetica, sans-serif" font-size="14">2025</text>
+  <text x="681" y="366" text-anchor="middle" fill="#666666" font-family="Arial, Helvetica, sans-serif" font-size="14">2026</text>
 
   <polyline
-    points="110,205 252,109 394,70 536,310 678,266 820,262"
+    points="81,133 201,126 321,124 441,139 561,137 681,137"
     fill="none"
-    stroke="#136F63"
-    stroke-width="5"
+    stroke="#2F97E5"
+    stroke-width="3"
     stroke-linecap="round"
     stroke-linejoin="round"
   />
 
-  <circle cx="110" cy="205" r="7" fill="#136F63"/>
-  <circle cx="252" cy="109" r="7" fill="#136F63"/>
-  <circle cx="394" cy="70" r="7" fill="#136F63"/>
-  <circle cx="536" cy="310" r="7" fill="#136F63"/>
-  <circle cx="678" cy="266" r="7" fill="#136F63"/>
-  <circle cx="820" cy="262" r="7" fill="#136F63"/>
+  <circle cx="81" cy="133" r="3.5" fill="#79B9EF" stroke="#2F97E5" stroke-width="1.5"/>
+  <circle cx="201" cy="126" r="3.5" fill="#79B9EF" stroke="#2F97E5" stroke-width="1.5"/>
+  <circle cx="321" cy="124" r="3.5" fill="#79B9EF" stroke="#2F97E5" stroke-width="1.5"/>
+  <circle cx="441" cy="139" r="3.5" fill="#79B9EF" stroke="#2F97E5" stroke-width="1.5"/>
+  <circle cx="561" cy="137" r="3.5" fill="#79B9EF" stroke="#2F97E5" stroke-width="1.5"/>
+  <circle cx="681" cy="137" r="3.5" fill="#79B9EF" stroke="#2F97E5" stroke-width="1.5"/>
 
-  <text x="92" y="343" fill="#4B5563" font-family="Verdana, Geneva, sans-serif" font-size="14">2021</text>
-  <text x="234" y="343" fill="#4B5563" font-family="Verdana, Geneva, sans-serif" font-size="14">2022</text>
-  <text x="376" y="343" fill="#4B5563" font-family="Verdana, Geneva, sans-serif" font-size="14">2023</text>
-  <text x="518" y="343" fill="#4B5563" font-family="Verdana, Geneva, sans-serif" font-size="14">2024</text>
-  <text x="660" y="343" fill="#4B5563" font-family="Verdana, Geneva, sans-serif" font-size="14">2025</text>
-  <text x="802" y="343" fill="#4B5563" font-family="Verdana, Geneva, sans-serif" font-size="14">2026</text>
-
-  <rect x="125" y="160" width="84" height="34" rx="10" fill="#136F63"/>
-  <text x="137" y="182" fill="#F8FAFC" font-family="Verdana, Geneva, sans-serif" font-size="13" font-weight="700">220.26</text>
-  <rect x="267" y="64" width="84" height="34" rx="10" fill="#136F63"/>
-  <text x="279" y="86" fill="#F8FAFC" font-family="Verdana, Geneva, sans-serif" font-size="13" font-weight="700">226.88</text>
-  <rect x="409" y="25" width="84" height="34" rx="10" fill="#8B5E34"/>
-  <text x="420" y="47" fill="#FFF7ED" font-family="Verdana, Geneva, sans-serif" font-size="13" font-weight="700">229.59</text>
-  <rect x="551" y="274" width="84" height="34" rx="10" fill="#A84343"/>
-  <text x="565" y="296" fill="#FFF7ED" font-family="Verdana, Geneva, sans-serif" font-size="13" font-weight="700">213.00</text>
-  <rect x="693" y="230" width="84" height="34" rx="10" fill="#136F63"/>
-  <text x="704" y="252" fill="#F8FAFC" font-family="Verdana, Geneva, sans-serif" font-size="13" font-weight="700">216.07</text>
-  <rect x="735" y="294" width="125" height="46" rx="14" fill="#FFF7ED" stroke="#D8C7A0"/>
-  <text x="750" y="315" fill="#7C5A2A" font-family="Verdana, Geneva, sans-serif" font-size="13" font-weight="700">Queda forte em 2024</text>
-  <text x="748" y="332" fill="#7C5A2A" font-family="Verdana, Geneva, sans-serif" font-size="11">mais arquivos, menos LOC medio</text>
+  <line x1="53" y1="380" x2="698" y2="380" stroke="#333333" stroke-width="2"/>
 </svg>
