@@ -81,9 +81,11 @@ Seja criativo!
 
 Responda às questões abaixo diretamente neste arquivo `README.md` do seu fork:
 
-1. Repositório selecionado: <URL_DO_REPOSITORIO_SELECIONADO_AQUI>
-2. Gráfico selecionado: <IMAGEM_DO_GRAFICO_SELECIONADO_AQUI>
-3. Explicação: <EXPLICACAO_AQUI>
+1. Repositório selecionado: https://github.com/pallets/flask
+2. Gráfico selecionado:
 
+![Gráfico LOC por arquivo Python no Flask](assets/flask-loc-por-arquivo-python.svg)
+
+3. Explicação: Escolhi o gráfico `LOC / Python files`, que representa o tamanho médio dos arquivos Python do Flask em cada ano analisado. Entre 2021 e 2023, a média sobe de `220,26` para `229,59` linhas por arquivo, o que sugere que boa parte do crescimento do sistema aconteceu dentro de módulos que já existiam. Em 2024, porém, a curva cai para `213,00`, enquanto o número de arquivos Python cresce de `79` para `82` e o LOC total cai de `18.138` para `17.466`. Isso indica um movimento de limpeza e modularização: em vez de continuar acumulando responsabilidade nos mesmos arquivos, o projeto passou a distribuir melhor o código. Essa leitura combina com o [changelog oficial do Flask](https://flask.palletsprojects.com/en/stable/changes/), especialmente as versões `2.3.0` (25/04/2023) e `3.0.0` (30/09/2023), que registram remoção de código depreciado e a reestruturação das classes `Flask` e `Blueprint` em bases Sans-IO. Em 2025 e 2026, a média volta a crescer levemente, mas permanece abaixo do pico de 2023, sugerindo estabilização depois da refatoração, sem retorno ao padrão anterior de arquivos maiores. Do ponto de vista de boas práticas, considero a curva saudável: o projeto continua evoluindo, mas o tamanho médio dos módulos diminui no momento em que a arquitetura é reorganizada.
 
 
